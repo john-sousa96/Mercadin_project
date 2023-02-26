@@ -1,0 +1,13 @@
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(255, 154, 3, 0.89);
+    text-align: justify;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+    color: rgba(202, 206, 3, 0.699);
+}
+.btn-outline-success {
+    color: rgba(255, 154, 3, 0.89);
+    background-color: transparent;
+    background-image: none;
+    border-color:rgba(255, 154, 3, 0.89);
+}
